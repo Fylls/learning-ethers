@@ -1,6 +1,10 @@
+<div align="center">
+
 ![4241df80-ec7a-11ea-8a6a-16405d93eb0b](https://user-images.githubusercontent.com/55017307/134694697-cdc830ba-8fb6-4b3d-9144-d3cb40563a5b.jpg)
 
 ## Why should you use Ethers?
+
+</div>
 
 most people when they're talking about working with a client-side decentralized application they usually talk about using Web3 which is a very popular library for communicating with an ethereum node and then displaying information on a client such as the browser or a mobile application
 
